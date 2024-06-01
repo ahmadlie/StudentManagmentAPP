@@ -20,6 +20,7 @@ public class TeacherConfiguration : IEntityTypeConfiguration<Teacher>
                .HasForeignKey(t => t.LessonId);
 
         builder.HasMany(t => t.Students)
-               .WithMany(t => t.Teachers); 
+               .WithMany(t => t.Teachers);
+        builder.Property(t => t.LessonId).IsRequired(false);
     }
 }

@@ -7,8 +7,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\StudentManagment.Application\StudentManagment.Application.csproj" />
     <ProjectReference Include="..\..\Core\StudentManagment.AutoMapper\StudentManagment.AutoMapper.csproj" />
     <ProjectReference Include="..\..\Infrastructure\StudentManagment.Persistence\StudentManagment.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="wwwroot\Admin\js\" />
+    <Folder Include="wwwroot\Assets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
   </ItemGroup>
 
 </Project>

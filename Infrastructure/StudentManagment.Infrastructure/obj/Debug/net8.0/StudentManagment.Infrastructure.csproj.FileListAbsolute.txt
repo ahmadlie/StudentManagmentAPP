@@ -1,0 +1,12 @@
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\bin\Debug\net8.0\StudentManagment.Infrastructure.deps.json
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\bin\Debug\net8.0\StudentManagment.Infrastructure.dll
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\bin\Debug\net8.0\StudentManagment.Infrastructure.pdb
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.AssemblyInfo.cs
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.sourcelink.json
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.dll
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\refint\StudentManagment.Infrastructure.dll
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\StudentManagment.Infrastructure.pdb
+C:\Development\StudentManagment\Infrastructure\StudentManagment.Infrastructure\obj\Debug\net8.0\ref\StudentManagment.Infrastructure.dll

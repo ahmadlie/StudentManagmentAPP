@@ -1,0 +1,13 @@
+C:\Development\StudentManagment\Core\StudentManagment.Domain\bin\Debug\net8.0\StudentManagment.Domain.deps.json
+C:\Development\StudentManagment\Core\StudentManagment.Domain\bin\Debug\net8.0\StudentManagment.Domain.dll
+C:\Development\StudentManagment\Core\StudentManagment.Domain\bin\Debug\net8.0\StudentManagment.Domain.pdb
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.csproj.AssemblyReference.cache
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.AssemblyInfoInputs.cache
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.AssemblyInfo.cs
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.sourcelink.json
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.dll
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\refint\StudentManagment.Domain.dll
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\StudentManagment.Domain.pdb
+C:\Development\StudentManagment\Core\StudentManagment.Domain\obj\Debug\net8.0\ref\StudentManagment.Domain.dll

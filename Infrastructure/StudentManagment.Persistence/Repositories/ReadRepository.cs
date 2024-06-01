@@ -7,15 +7,15 @@ using System.Linq.Expressions;
 namespace StudentManagment.Persistence.Repositories;
 public class ReadRepository<TEntity> : IReadRepository<TEntity> where TEntity : class, IBaseEntity, new()
 {
-    private readonly AppDbContext _dbContext;
-    private readonly DbSet<TEntity> _entity;
+    public readonly AppDbContext _dbContext;
+    public readonly DbSet<TEntity> _entity;
     public ReadRepository(AppDbContext dbContext)
     {
         _dbContext = dbContext;
         _entity = _dbContext.Set<TEntity>();
     }
 
-    public async Task<IList<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = false)
+    public virtual async Task<IList<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = false)
     {
         IQueryable<TEntity> queryableEntity = _entity;
         if (!enableTracking) queryableEntity = queryableEntity.AsNoTracking();
@@ -25,7 +25,7 @@ public class ReadRepository<TEntity> : IReadRepository<TEntity> where TEntity : 
         return await queryableEntity.ToListAsync();
     }
 
-    public async Task<IList<TEntity>> GetAllByPageAsync(int currrentPage = 1, int pageSize = 3, Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = false)
+    public virtual async Task<IList<TEntity>> GetAllByPageAsync(int currrentPage = 1, int pageSize = 3, Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = false)
     {
         IQueryable<TEntity> queryableEntity = _entity;
         if (!enableTracking) queryableEntity = queryableEntity.AsNoTracking();
@@ -38,7 +38,7 @@ public class ReadRepository<TEntity> : IReadRepository<TEntity> where TEntity : 
                                     .ToListAsync();
     }
 
-    public async Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> expression, bool enableTracking = false)
+    public virtual async Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> expression, bool enableTracking = false)
     {
         IQueryable<TEntity> queryableEntity = _entity;
         if (!enableTracking) queryableEntity = queryableEntity.AsNoTracking();

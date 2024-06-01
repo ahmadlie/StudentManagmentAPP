@@ -1,0 +1,71 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="https://edulearn-lms-admin-template.multipurposethemes.com/images/favicon.ico">
+
+	<title>ProLearn - Log in </title>
+
+	<link rel="stylesheet" href="~/Assets/css/vendors_css.css">
+	<link rel="stylesheet" href="~/Assets/css/style.css">
+	<link rel="stylesheet" href="~/Assets/css/skin_color.css">
+
+</head>
+
+<body class="hold-transition theme-primary bg-img" style="background-image: url(../../../images/auth-bg/bg-16.jpg)">
+
+	<div class="container h-p100">
+		<div class="row align-items-center justify-content-md-center h-p100">
+
+			<div class="col-12">
+				<div class="row justify-content-center g-0">
+					<div class="col-lg-5 col-md-5 col-12">
+						<div class="bg-white rounded10 shadow-lg">
+							<div class="content-top-agile p-20 pb-0">
+								<h2 class="text-primary fw-600">Let's Get Started!</h2>
+							</div>
+							<div class="p-40">
+								<form asp-action="SignIn" asp-controller="Account" method="post">
+									<div class="form-group">
+										<div class="input-group mb-3">
+											<span class="input-group-text bg-transparent"><i class="text-fade ti-user"></i></span>
+											<input name="Username" type="text" class="form-control ps-15 bg-transparent" placeholder="Username" required>
+										</div>
+									</div>
+									<div class="form-group">
+										<div class="input-group mb-3">
+											<span class="input-group-text  bg-transparent"><i class="text-fade ti-lock"></i></span>
+											<input name="Password" type="password" class="form-control ps-15 bg-transparent" placeholder="Password" required>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-12 text-center">
+											<button type="submit" class="btn btn-primary w-p100 mt-10">SIGN IN</button>
+										</div>
+									</div>
+									<p class="text-danger temp-data align-center">@TempData["ErrorMessage"]</p>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="~/Assets/js/vendors.min.js"></script>
+	<script src="~/Assets/js/pages/chat-popup.js"></script>
+	<script src="~/Assets/icons/feather-icons/feather.min.js"></script>
+</body>
+</html>
+
+
+

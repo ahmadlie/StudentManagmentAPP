@@ -6,12 +6,7 @@ namespace StudentManagment.Persistence.Configuratios;
 public class StudentConfiguration : IEntityTypeConfiguration<Student>
 {
     public void Configure(EntityTypeBuilder<Student> builder)
-    {
-        builder.HasKey(s => s.Number);
-
-        builder.Property(s => s.Number)
-               .HasPrecision(5, 0);
-
+    {      
         builder.Property(s=>s.Class)
                .HasPrecision(2, 0);
 

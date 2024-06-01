@@ -3,7 +3,7 @@
 namespace StudentManagment.Domain.Entities;
 public class Student : BaseEntity
 {
-    public decimal Number {  get; set; }
+    public int Id {  get; set; }
     public string FirstName { get; set; } = null!;
     public string LastName { get; set; } = null!;
     public decimal Class { get; set; } 

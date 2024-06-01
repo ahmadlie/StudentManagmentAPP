@@ -1,0 +1,2493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagment.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentManagment.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Admin\\css\\custom-image.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\custom-image.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Admin\\js\\user-index.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\user-index.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\css\\color_theme.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\color_theme.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\css\\skin_color.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\skin_color.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\css\\style_rtl.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style_rtl.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\css\\vendors_css.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\vendors_css.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\Ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\Ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\cryptocoins-master\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\cryptocoins-master\\cryptocoins.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\cryptocoins-master\\cryptocoins.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\cryptocoins-master\\cryptocoins.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\cryptocoins-master\\cryptocoins.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\cryptocoins-master\\cryptocoins.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\cryptocoins-master\\cryptocoins.woff2",
+      "PackagePath": "staticwebassets\\Assets\\icons\\cryptocoins-master\\cryptocoins.woff2"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\feather-icons\\feather.min.js",
+      "PackagePath": "staticwebassets\\Assets\\icons\\feather-icons\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\flag-icon-css\\css\\flag-icon.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\flag-icon-css\\css\\flag-icon.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicon.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicon.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\glyphicons\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\glyphicons\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\icomoon\\fonts\\icomoon4a27.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\icomoonca27.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\icomoonca27.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\icomoonca27.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\icomoonca27.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\icomoonca27.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\icomoonca27.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\icomoonca27.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\icomoonca27.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\icomoond41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\icomoond41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\iconsmind\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\iconsmind\\style.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-music-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-music-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-music-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-software-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-software-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-software-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10d41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\fonts\\linea-weather-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\linea-icons\\linea.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\Assets\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\advanced-form-element.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\advanced-form-element.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\apex_charts.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\apex_charts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\app-contact.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\app-contact.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-axis.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-axis.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-bar-pie.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-bar-pie.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-data.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-data.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-line.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-line.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-multi-xy-line.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-multi-xy-line.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\c3-stap-line.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\c3-stap-line.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\chart-widgets.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\chat-popup.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\chat-popup.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\component-animations-css3.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\component-animations-css3.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\component-rating-init.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\component-rating-init.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\coundown-timer.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\coundown-timer.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\custom-scroll.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\custom-scroll.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\data-table.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\data-table.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\date-paginator.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\date-paginator.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\demo.calendar.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\demo.calendar.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\demo.chartjs.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\demo.chartjs.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\echart-bar.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\echart-bar.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\echart-line-charts.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\echart-line-charts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\echart-pie-doghnut.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\echart-pie-doghnut.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\ecommerce_details.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\ecommerce_details.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\editable-tables.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\editable-tables.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\editor.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\editor.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\extra_taskboard.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\extra_taskboard.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\form-code-editor.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\form-code-editor.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\form-compose.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\form-compose.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\form-x-editable.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\form-x-editable.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\formatter.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\formatter.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\fullscreen.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\gallery.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\gallery.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\gridstackjs.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\gridstackjs.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\icons.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\icons.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\invoice.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\invoice.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\list.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\list.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\media.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\media.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\nestable.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\nestable.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\notification.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\notification.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\owl-slider.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\owl-slider.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\pace.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\pace.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\peity.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\peity.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\slider.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\statistic.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\statistic.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\steps.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\steps.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\timeline.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\timeline.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\toastr.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\toastr.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\validation.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\validation.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\weather.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\weather.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widget-blog.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widget-blog.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widget-chartist.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widget-chartist.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widget-flot-charts.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widget-flot-charts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widget-inline-charts.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widget-inline-charts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widget-morris-charts.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widget-morris-charts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\pages\\widgets.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\pages\\widgets.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup-init.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup-init.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\Magnific-Popup-master\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\OwlCarousel2\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\OwlCarousel2\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\PACE\\pace.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\PACE\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\apexcharts-bundle\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\apexcharts-bundle\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\img\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-markdown-master\\css\\bootstrap-markdown.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-markdown-master\\css\\bootstrap-markdown.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-markdown-master\\js\\bootstrap-markdown.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-markdown-master\\js\\bootstrap-markdown.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-select\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-select\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-select\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-select\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-switch\\switch.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-switch\\switch.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\c3\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\c3\\d3.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\c3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\chart.js-master\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\chart.js-master\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\chartist-js-develop\\chartist.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\chartist-js-develop\\chartist.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\chartist-js-develop\\chartist.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\chartist-js-develop\\chartist.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\date-paginator\\moment.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\date-paginator\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\dragula-master\\dist\\dragula.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\dragula-master\\dist\\dragula.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\dragula-master\\dist\\dragula.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\dragula-master\\dist\\dragula.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\echarts\\dist\\echarts-en.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\echarts\\dist\\echarts-en.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\flexslider.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icond41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\fonts\\flexslider-icond41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\flexslider\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\flexslider\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\formatter\\formatter.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\formatter\\formatter.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\formatter\\jquery.formatter.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\formatter\\jquery.formatter.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\full-calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\full-calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\full-calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\full-calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\full-calendar\\moment.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\full-calendar\\moment.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gallery\\css\\animated-masonry-gallery.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gallery\\css\\animated-masonry-gallery.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gallery\\js\\animated-masonry-gallery.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gallery\\js\\animated-masonry-gallery.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gallery\\js\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gallery\\js\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gmaps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gmaps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gridstack\\gridstack.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gridstack\\gridstack.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gridstack\\gridstack.jQueryUI.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gridstack\\gridstack.jQueryUI.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gridstack\\gridstack.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gridstack\\gridstack.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\gridstack\\lodash.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\gridstack\\lodash.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\horizontal-timeline\\css\\horizontal-timeline.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\horizontal-timeline\\css\\horizontal-timeline.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\horizontal-timeline\\js\\horizontal-timeline.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\horizontal-timeline\\js\\horizontal-timeline.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\ion-rangeSlider\\img\\sprite-skin-modern.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\ion-rangeSlider\\img\\sprite-skin-modern.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\ion-rangeSlider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\ion-rangeSlider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-knob\\js\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-knob\\js\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-steps-master\\build\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-steps-master\\build\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery-validation-1.17.0\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery-validation-1.17.0\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jquery.peity\\jquery.peity.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jquery.peity\\jquery.peity.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\jvectormap\\lib2\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\jvectormap\\lib2\\jvectormap.custom.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\MarkerCluster.Default.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\MarkerCluster.Default.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\MarkerCluster.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\MarkerCluster.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\images\\layers-2x.html",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\images\\layers-2x.html"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\images\\layers.html",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\images\\layers.html"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\images\\marker-icon.html",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\images\\marker-icon.html"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\lightbox-master\\dist\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\lightbox-master\\dist\\ekko-lightbox.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\marked\\marked.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\marked\\marked.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\moment\\src\\moment2.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\moment\\src\\moment2.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\morris.js\\morris.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\morris.js\\morris.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\morris.js\\morris.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\morris.js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\nestable\\nestable.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\perfect-scrollbar-master\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\perfect-scrollbar-master\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\prism\\prism.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\prism\\prism.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.svg",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.ttf",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.woff",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\fonts\\raty.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\fonts\\ratyd41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\fonts\\ratyd41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\jquery.raty.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\jquery.raty.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\raty-master\\lib\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\raty-master\\lib\\jquery.raty.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\select2\\dist\\css\\select2.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\select2\\dist\\css\\select2.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\select2\\dist\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\select2\\dist\\js\\select2.full.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\sweetalert\\jquery.sweet-alert.custom.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\sweetalert\\jquery.sweet-alert.custom.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\tiny-editable\\mindmup-editabletable.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\tiny-editable\\mindmup-editabletable.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\tiny-editable\\numeric-input-example.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\tiny-editable\\numeric-input-example.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\to-markdown\\to-markdown.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\to-markdown\\to-markdown.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weather-icons.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\weather-icons\\weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\css\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\css\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\img\\clear.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\js\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\js\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\JqueryPrintArea\\demo\\jquery.PrintArea.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\JqueryPrintArea\\demo\\jquery.PrintArea.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\ace-builds-master\\src-min-noconflict\\ace.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\ace-builds-master\\src-min-noconflict\\ace.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicon.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicon.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\bootstrap-wysihtml5\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\pace\\pace.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\Assets\\vendor_plugins\\weather-icons\\WeatherIcon.js",
+      "PackagePath": "staticwebassets\\Assets\\vendor_plugins\\weather-icons\\WeatherIcon.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\150x100.png",
+      "PackagePath": "staticwebassets\\images\\150x100.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert2.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert2.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert3.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert4.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert4.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert5.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert5.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert6.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert6.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\alert\\alert7.png",
+      "PackagePath": "staticwebassets\\images\\alert\\alert7.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-13.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-13.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-14.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-14.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-15.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-15.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-16.jpg",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-16.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-17.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-17.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-18.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-18.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\auth-bg\\bg-19.png",
+      "PackagePath": "staticwebassets\\images\\auth-bg\\bg-19.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\images\\avatar.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar2.png",
+      "PackagePath": "staticwebassets\\images\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar3.png",
+      "PackagePath": "staticwebassets\\images\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar5.png",
+      "PackagePath": "staticwebassets\\images\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-1.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-10.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-10.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-11.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-11.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-12.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-12.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-13.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-13.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-15.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-15.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-16.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-16.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-2.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-3.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-4.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-5.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-5.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-6.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-6.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-7.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-7.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-8.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-8.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\avatar\\avatar-9.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-9.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\card\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\card\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\cod.png",
+      "PackagePath": "staticwebassets\\images\\cod.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\discover.png",
+      "PackagePath": "staticwebassets\\images\\discover.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\4f.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\4f.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\6.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\7.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\8.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\front-end-img\\courses\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\front-end-img\\courses\\9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\creative\\img-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\creative\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\10.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\full\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\full\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape10.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape11.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape12.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape13.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape13.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape14.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape14.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape15.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape15.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape16.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape16.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape17.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape17.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape18.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape18.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape6.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape7.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape8.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\landscape9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\landscape9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio10.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio11.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio12.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio13.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio13.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio14.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio14.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio15.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio15.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio16.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio16.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio17.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio17.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio18.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio18.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio19.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio19.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio20.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio20.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio21.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio21.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio22.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio22.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio23.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio23.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio24.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio24.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio25.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio25.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio26.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio26.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio27.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio27.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio6.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio7.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio8.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\studio9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\studio9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\10.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\7.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb-sm\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb-sm\\9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\10.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\11.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\12.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\13.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\14.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\15.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\19.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\4.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\5.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\6.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\7.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\8.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\gallery\\thumb\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\thumb\\9.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-dark-text.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark-text.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-letter-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-letter-white.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-letter.png",
+      "PackagePath": "staticwebassets\\images\\logo-letter.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-light-text3.png",
+      "PackagePath": "staticwebassets\\images\\logo-light-text3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\logo-light-text4.png",
+      "PackagePath": "staticwebassets\\images\\logo-light-text4.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\master.png",
+      "PackagePath": "staticwebassets\\images\\master.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\payoneer.png",
+      "PackagePath": "staticwebassets\\images\\payoneer.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\images\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preloaders\\1.gif",
+      "PackagePath": "staticwebassets\\images\\preloaders\\1.gif"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\1200x675.jpg",
+      "PackagePath": "staticwebassets\\images\\preview\\1200x675.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-1-dark.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-1-dark.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-1.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-1.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-2-dark.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-2-dark.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-2.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-2.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-3-dark.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-3-dark.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\coming-soon-3.png",
+      "PackagePath": "staticwebassets\\images\\preview\\coming-soon-3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-change-pass.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-change-pass.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-closed-account.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-closed-account.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-expired-card.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-expired-card.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-update.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-update.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-verify-email.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-verify-email.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\preview\\email-welcome.png",
+      "PackagePath": "staticwebassets\\images\\preview\\email-welcome.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-1.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-10.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-10.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-11.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-11.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-12.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-12.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-2.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-3.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-4.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-4.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-5.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-5.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-6.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-6.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-7.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-7.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-8.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-8.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\product\\product-9.png",
+      "PackagePath": "staticwebassets\\images\\product\\product-9.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\qrcode.png",
+      "PackagePath": "staticwebassets\\images\\qrcode.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\stripe.png",
+      "PackagePath": "staticwebassets\\images\\stripe.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\user-info.jpg",
+      "PackagePath": "staticwebassets\\images\\user-info.jpg"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\images\\visa.png",
+      "PackagePath": "staticwebassets\\images\\visa.png"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Development\\StudentManagment\\Presentation\\StudentManagment.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentManagment.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentManagment.MVC.props",
+      "PackagePath": "build\\StudentManagment.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentManagment.MVC.props",
+      "PackagePath": "buildMultiTargeting\\StudentManagment.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentManagment.MVC.props",
+      "PackagePath": "buildTransitive\\StudentManagment.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
